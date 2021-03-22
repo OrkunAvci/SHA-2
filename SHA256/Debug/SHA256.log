@@ -1,2 +1,8 @@
-﻿  main.cpp
-  SHA256.vcxproj -> D:\GitHub\Library\C++\Cryptography\SHA256\Debug\SHA256.exe
+﻿  constants.cpp
+  main.cpp
+  bit_operations.cpp
+  math_functions.cpp
+  messageBlock.cpp
+  Generating Code...
+  LINK : D:\GitHub\SHA-2\Debug\SHA256.exe not found or not built by the last incremental link; performing full link
+  SHA256.vcxproj -> D:\GitHub\SHA-2\Debug\SHA256.exe
