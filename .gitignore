@@ -265,3 +265,5 @@ C++/Class Tree/Two-Three Tree/Two-Three Tree/Two-Three Tree.vcxproj.filters
 C++/Class Tree/Two-Three Tree/Two-Three Tree/Two-Three Tree.vcxproj
 C++/Class Tree/Two-Three Tree/Two-Three Tree.sln
 *.exe
+.vs/SHA256/v15/Browse.VC.db
+.vs/SHA256/v15/.suo
